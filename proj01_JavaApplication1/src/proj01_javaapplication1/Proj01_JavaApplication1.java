@@ -17,6 +17,9 @@ public class Proj01_JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Ola Mundo!");
+        System.out.print("Este eh meu primeiro programa");
+        System.out.print(" utilizando o Netbeans.\n");
     }
     
 }
