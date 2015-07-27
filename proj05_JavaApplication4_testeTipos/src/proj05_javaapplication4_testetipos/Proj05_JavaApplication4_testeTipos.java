@@ -23,6 +23,11 @@ public class Proj05_JavaApplication4_testeTipos {
         String numero = "44";
         int tempo = Integer.parseInt (numero);
         System.out.println(tempo);
+        
+        String numerozao = "30.5431";
+        float numerao = Float.parseFloat(numerozao);
+        System.out.println(numerao);
+        
     }
     
 }
